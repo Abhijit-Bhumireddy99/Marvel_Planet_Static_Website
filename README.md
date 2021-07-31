@@ -14,7 +14,7 @@ The website looks like this:
 ![Capture5](https://user-images.githubusercontent.com/85679367/127665015-1fa90e7c-ace2-439f-834a-d0660c23d9f3.PNG)
 ![Capture6](https://user-images.githubusercontent.com/85679367/127665665-3211669f-9fb9-4a87-b753-0d116d9d8d71.PNG)
 
-**After clicking a particular character card in heroes web page. The web page will be redirected to that particular super hero's web page. For example see below.**
+**After clicking a particular character card in heroes web page. The web page will be redirected to that particular super hero's web page which contains introduction, personal information and super powers of a particular character. For example see below.**
 
 **Captain America Web Page: (captainamerica.html)**
 
