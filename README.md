@@ -29,5 +29,5 @@ The website looks like this:
 
 **Ironman Web Page: (ironman.html)**
 
-
+![Capture1](https://user-images.githubusercontent.com/85679367/127734571-741ea69b-eafd-4c9c-af76-e13228e17cb0.PNG)
 ![Capture2](https://user-images.githubusercontent.com/85679367/127734754-9804f0a8-1f13-4587-b3a3-cab4b94652fe.PNG)
