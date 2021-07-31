@@ -42,3 +42,4 @@ The website looks like this:
 
 **Thor Web Page: (thor.html)**
 
+![Capture1](https://user-images.githubusercontent.com/85679367/127735357-41904ce1-2413-4e09-8a0e-e72b2f1a7b34.PNG)
