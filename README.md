@@ -24,3 +24,4 @@ The website looks like this:
 ![Capture9](https://user-images.githubusercontent.com/85679367/127734123-57349b58-9496-40ec-a62c-d4f435c57078.PNG)
 ![Capture10](https://user-images.githubusercontent.com/85679367/127734234-1171a7c7-cf6f-49f6-b840-e29c6817136d.PNG)
 ![Capture11](https://user-images.githubusercontent.com/85679367/127734232-3d71ceb8-d9f1-458d-820d-9a50b8a41230.PNG)
+![Capture12](https://user-images.githubusercontent.com/85679367/127734231-707b0015-9b37-4c81-a097-b1747a96fce0.PNG)
