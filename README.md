@@ -19,3 +19,4 @@ The website looks like this:
 **Captain America Web Page: (captainamerica.html)**
 
 ![Capture6](https://user-images.githubusercontent.com/85679367/127732378-5c55d6aa-8cc4-4502-bb86-8d9c065234e4.PNG)
+![Capture7](https://user-images.githubusercontent.com/85679367/127733913-53f46cd6-d44e-4730-a2fd-e67ba64ee0e0.PNG)
